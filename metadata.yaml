@@ -1,0 +1,31 @@
+_repo: The-Dawn-of-Modern-Medicine-An-Account-of-the-Revival-of-the-Science-and-Art-of-Medicine-Whic__61196
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buck, Albert H. (Albert Henry)
+    alias: Buck, Albert Henry
+    birthdate: 1842
+    deathdate: 1922
+    gutenberg_agent_id: '51304'
+    url: http://www.gutenberg.org/2009/agents/51304
+description: ''
+gutenberg_issued: '2020-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61196'
+  lccn: '20015528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- History -- 18th century'
+- !lcc 'R'
+- !lcsh 'Medicine -- History -- 19th century'
+- !lcsh 'Medicine -- Europe -- History'
+- !lcsh 'Physicians -- Europe -- Biography'
+- GITenberg
+title: "The Dawn of Modern Medicine\r\nAn Account of the Revival of the Science and\
+  \ Art of Medicine Which Took Place in Western Europe During the Latter Half of the\
+  \ Eighteenth Century and the First Part of the Nineteenth"
+url: http://www.gutenberg.org/ebooks/61196
